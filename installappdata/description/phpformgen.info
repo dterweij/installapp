@@ -1,0 +1,6 @@
+variable __db
+url http://phpformgen.sourceforge.net
+img phpformgen.gif
+version 2.09c
+description  phpFormGen.
+detail phpFormGenerator is an easy-to-use tool to create reliable and efficient web forms in a snap. No programming of any sort is required. Just follow along the phpFormGenerator wizard and at the end, you will have a fully functional web form!<br>Program features:<br>* Ability to create up to 100 form fields<br>* Ability to add a variety of field types including Text Boxes, Passwords, Drop Down Selection menus, Check Boxes, Radio Buttons, free form Text Areas, and File Uploads<br>* All field types are highly customizable (for example you can specify the sizes, options, etc)<br>* Ability to have the form data emailed to a provided email address<br>* Ability to store the form data in a database table (currently supporting MySQL)<br>* Ability to create a file based database to store form data for those who don't have access to a MySQL database server<br>* Administration portal to manage your stored form data

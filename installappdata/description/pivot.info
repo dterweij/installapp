@@ -1,0 +1,6 @@
+variable admin_username_static_admin admin_password_static_password admin_email
+url http://pivotlog.net/
+version 1.40.1
+description  Pivot is a web-based tool to help you maintain dynamic sites.
+detail  Pivot is a tool, written in PHP, to create weblogs and other dynamic websites and easy to use. Because you place the software on your webserver, you do not need any tools on your own computer, but you can use all of Pivot\u2019s functionality through your web browser. This way you can use your Pivot from wherever you like, once you have it up and running.<br> Some of the features of Pivot are:<br> * Sophisticated Categories/Weblogs system, so you can maintain several weblogs and publish your entries how you like;<br>Template based. Fully adaptable to your wishes;<br>* Built in simple search tool.<br> Keeps simple statistics of how your visitors came to your site;<br>*Easy to upload and include pictures with your log-entries;
+

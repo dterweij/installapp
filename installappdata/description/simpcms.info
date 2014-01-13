@@ -1,0 +1,6 @@
+variable  __db admin_username_static_admin admin_password_static_password  
+url http://www.simpcms.com
+version 1
+description SimpCMS.
+detail SimpCMS Light is a simple script which will not only let you to publish news fast and easily in categories you make, but will also provide you a RSS feed of your news and show your news in nice elegant template.
+

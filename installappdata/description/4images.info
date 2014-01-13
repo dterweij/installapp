@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://www.4homepages.de/
+version 1.7.6
+description 4images is A powerful Web based image gallery management system.
+detail 4images is a powerful web-based image gallery management system. Features include comment system, user registration and mangagement, password protected administration area with browser-based upload and HTML templates for page layout and design. More features are: RSS feeds, search engine, automatic thumbnail generation, extensive user administration, upload function for users, showing IPTC and EXIF data of images, rating of images, spam protection, protection against hotlinking, newsletter function, e-cards, integrated database backup function, etc.
+

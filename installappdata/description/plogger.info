@@ -1,0 +1,6 @@
+variable __db admin_username admin_password
+url http://plogger.org
+version 3
+description Plogger is the next generation in open-source photo gallery systems.
+detail Plogger is the next generation in open-source photo gallery systems. A web application not bloated with superfluous features or complicated configuration settings. Plogger is a simple yet powerful tool b everything you need to share your images with the world. Plogger is your photos integrated into your website, a fully featured photo sharing package with an attractive and easy to use administrative interface that makes managing your galleries a breeze. Integrating our gallery software into your website is as easy as inserting three lines of PHP code.
+

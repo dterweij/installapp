@@ -1,0 +1,8 @@
+variable  admin_username  admin_password admin_email
+url http://www.opensolution.org
+version 03.1
+description  Quickcart is simple e-commerce solution designed for your web shop administration.
+detail Quickcart is a simple e-commerce solution designed for your own web shop administration.<br>#Really simple servicing - our goal was to make an application, which won't discourage clients for ordering, through required registration, filling up many forms and going through endless steps of the order.<br> # Stability - application has been used since september 2004. Because of a common access to this application, any errors are immediately detected and removed,<br># Speed - in designing web shop, we tried to minimize the HTML code and also made possible generating small pictures, making web loading as short as possible,<br># Standards - our solutions are compatible with XHTML 1.1 and also with settings of most of the popular servers,<br># Template system - we did our best to separate the logic and presentational layers from each other. The web shop outlook change, is really simple and it works through templates in which complicated PHP language is not used at all.
+
+
+

@@ -1,0 +1,7 @@
+variable admin_email admin_username admin_password
+url http://jaf-cms.sourceforge.net
+version 4.0
+description  JAF CMS is just another flat file CMS is a personal home-page oriented CMSs engine.
+detail  JAF CMS - ...just another flat file CMS is a personal home-page oriented CMSs engine without database needed for small private sites. its easy to install, to use, easy to expand to suit your personal home page. It includes page editor, and page creator.It is a Content Management System (CMS) consist of a powerful set of PHP scripts that allow you to maintain personal home page in an easy way.It is intended for the people who want to build a simple personal homepage without database suported on their server, and easy maintenance over their sites. If you're just looking for a very simple way to put up a site, or didn't know too much about HTML coding, you might want to use JAF CMS - ...just another flat file CMS.
+
+

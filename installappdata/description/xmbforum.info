@@ -1,0 +1,7 @@
+variable __db admin_username admin_password admin_email
+url http://xmbforum.com
+img xmbforum.gif
+version 1.9.7
+description xmbforum is  Extreme Message Board.
+detail  XMB is short for eXtreme Message Board and is an open source forum system written in the PHP 4 scripting language and using the database management system MySQL to store dynamic content. It is being distributed under the GNU General Public License. Out-of-the-box, the forum is quite simple compared to its commercial competitors, but a substantial amount of modifications exist to add new features.<br>Some important features: <br>		* Support for many languages. <br>		* Buddy list<br>		* u2u messaging system <br>		* Thread subscriptions<br>		* Subforums.
+

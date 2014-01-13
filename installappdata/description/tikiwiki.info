@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_admin
+url http://tikiwiki.org/
+img tikiwiki.gif
+version 2.2
+description  Tikiwiki.
+detail Tikiwiki is one of the most feature - laden CMS software packages in the world. Unlike other open source projects that ship only a small set of features and encourage 3rd party add-ons, the Tiki community has chosen to include as many features as possible in the CVS?, which helps to ensures that - unlike other projects - when you upgrade, your features will not get broken. Not all features are fully developed however, so this page provides a feature rating to help judge if Tikiwiki is right for you.<br>Tikiwiki Features<br>o Content features<br>o Navigation features<br>o CMS features (which apply to all content)<br>o Text Area features (features you can use in all text areas, like wiki pages, blogs, articles, forums, etc)<br>o Other<br>o General notes: About Tikiwiki Features 

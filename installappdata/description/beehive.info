@@ -1,0 +1,8 @@
+variable __db admin_email admin_username admin_password
+url http://beehiveforum.sourceforge.net/
+version 0.7.1
+description Beehive is Discussion Forum with frames-based layout,reply-to-user,email notification.
+detail Beehive is Discussion Forum with frames-based layout, reply-to-user, e-mail notification, HTML-posting, signatures, friends & killfiles, user promotion/demotion and full admin tools.Beehive Forum has a lot of features. The main ones are listed below:<br>* Frame-based layout, for easy navigation.<br> * Reply-to-user posting and e-mail notification.<br> * Powerful HTML posting, without security risks.<br> * Extendable user profiles.<br>* Flexible relationships system.<br>* Private Messaging system.<br> * Multiple style options, including dyslexia support.<br> * Advanced word-filtering facility.<br>* Comprehensive user permissions.<br>* Full, easy to use admin tools.
+										
+
+

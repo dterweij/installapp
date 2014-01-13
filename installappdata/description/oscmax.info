@@ -1,0 +1,6 @@
+variable   __db admin_email_static_admin@localhost.com admin_password_static_admin
+url http://www.oscmax.com
+img oscmax.gif
+version 2.2.0.1
+description  osCMax.
+detail  osCMax is a powerful e-commerce/shopping cart web application. There are many advantages to using osCMax as your e-commerce/shopping cart for your web site. It has all the features needed to run a successful internet store and can be customized to whatever configuration you need.<br>Other advantages:<br>* Unlimited Products and Categories<br>* Gift Vouchers/Coupons<br>* Download/Virtual Product support<br>* Secure/Stable code base<br>* Web Based admin Panel<br>* Supports PayPal, AuthorizeNet, Real time credit card processing<br>* Supports UPS, USPS and Fed X shipping<br>* Unlimited product Specials<br>* Separate customer groups (Retail, Wholesale, or add your own groups)<br>* Compatible with most other mods available for osCommerce.<br>* 100% FREE!

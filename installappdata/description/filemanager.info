@@ -1,0 +1,5 @@
+variable admin_password_static_admin
+url http://www.invisionfilemanager.com
+version 1.0.1
+description Power File Manager a simple to use File Management solution.
+detail Invision File Manager is a comprehensive File Manager built from scratch.<br> Features: Easy to install; Customize File Associations; File Editor; Multi user support; Language Pack Support; Online File Archiver; MySQL Manager; Apache password protection; Fully "skinnable"; Supports all the common File & Folder operations; Recursive delete for folders; Source Code Viewer; Generates a pie chart showing Space Used/Free.

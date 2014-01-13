@@ -1,0 +1,5 @@
+variable   __db admin_password admin_email 
+url	 http://www.aardvarktopsitesphp.com/
+version  5.2
+description Aardvark Topsites PHP.
+detail  Aardvark Topsites PHP is simply the best topsites script available. It is licensed under the GNU General Public License so it will always remain completely free. The most popular features include the following:<br>* Counts pageviews, hits in, and hits out<br>* Robust anti-cheating protection<br>* Members' ranks can be shown on their buttons<br>* 100% customizable skins<br>* Powerful and efficient admin area<br>* Easy installation<br>* Free support

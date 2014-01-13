@@ -1,0 +1,7 @@
+variable __db title admin_email admin_username_static_admin admin_message_static_password_sent_to_email
+url http://lethalpenguin.net
+img wordpress.gif
+version 1.2.1
+description  FAQ web application software.
+detail This is a free, database-driven web-based application for creating and maintaining Frequently Asked Questions (FAQs) on your web site.
+

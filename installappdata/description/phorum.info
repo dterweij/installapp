@@ -1,0 +1,5 @@
+variable __db admin_email admin_username admin_password
+url http://www.phorum.org/
+version 5.1.24
+description Phorum is a web based message board.
+detail 	Phorum is a web based message board written in PHP. Phorum is designed with high-availability and visitor ease of use in mind. Features such as mailing list integration, easy customization and simple installation make Phorum a powerful add-in to any website.Phorum is a little different from the other web based message boards out there. It was designed to meet different needs of different web sites while not sacrificing performance or features.<br> The group of developers of Phorum had very different needs. Some needed software that could run a single forum with over 2,000 new posts per day. Others hosted over 4,000 forums on one server. The end result is a versatile product that can serve anyone's needs.

@@ -1,0 +1,9 @@
+variable __db admin_username_static_admin admin_password_static_admin
+url http://www.igamingcms.com
+version 1.4.0
+description  iGaming CMS is a content management system designed for gaming websites.
+detail iGaming CMS is a content management system designed for gaming websites. The system is written in PHP and requires a Mysql database for operation.Feature List <br>Cheat Manager,Company Manager <br> Content Download System,Custom Fields <br> Download Manager, Game Manager <br> Mailbag,News Manager, Plugin Manager<br>Poll Manager, Preview Manager <br>Review Manager, Screenshot Manager,<br> Static Page Manager,<br> User Manager,Template Editor<br> Menu Manager, Module Manager<br> Diagnostic Tools,<br> Database Tools, Backup / Restore Utilities.
+
+
+
+

@@ -1,0 +1,5 @@
+variable admin_username_static_admin admin_password_static_password admin_email
+url http://www.sgal.org
+version 0.10.1
+description singapore is a multilingual, template-driven image gallery web application.
+detail singapore is an open source, multilingual, template-driven image gallery web application. quite a mouthful! It is written in PHP and is licensed under the GNU General Public License.What makes singapore different from the hundreds of other similar scripts is that it was originaly conceived for displaying photographic art in an aesthetically pleasing fashion using a clean, uncluttered interface (see it in the online demo). Now, though, its powerful templating system allows you to display your images in pretty much any way that takes your fancy.

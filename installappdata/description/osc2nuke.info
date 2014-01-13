@@ -1,0 +1,6 @@
+variable   __db admin_username_static_admin admin_password_static_password admin_email
+url http://www.osc2nuke.com
+img osc2nuke.gif
+version 8033
+description  osc2nuke.
+detail Osc2nuke is the combination of 2 top of the line opensource products, PHPnuke CMS and OScommmerce shopping cart. osc2nuke fills the gap between the 2 world of PHPnuke and OScommmerce and grant to the project users acces to thousand of phpnuke themes, modules and blocks while it also make possible the installation of OScommerce ressources. So it is a phpnuke site in which we have fully integrate the oscommerce shopping cart.

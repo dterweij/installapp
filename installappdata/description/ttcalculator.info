@@ -1,0 +1,5 @@
+variable admin_username_static_admin
+url http://ttfreeware.com
+version 1
+description TigerTom's Loan & Mortgage Calculator.
+detail TigerTom's Loan & Mortgage Calculator scripts (TTCalc) are an easy set up, with some surprising features. MySQL is not needed. Outputs amortization tables. Users can select their currency symbol (GBP, Dollar and Euro). Webmasters can change the scripts' appearance using CSS and the scripts' internal HTML. It's freeware; all the authors ask is that you retain the hyperlinks to their web sites.

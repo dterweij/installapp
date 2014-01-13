@@ -1,0 +1,8 @@
+variable __db admin_username_static_admin admin_email admin_message_static_password_sent_to_email
+url http://lyceum.ibiblio.org/
+img lyceum.gif
+requirement mysql 4.1
+version 0.34
+description  Lyceum.
+detail Lyceum is an open-source blogging platform based on WordPress. It is currently developed by ibiblio.<br>* Multi-user, multi-blog enhancement of the WordPress blogging engine.<br>* Enterprise database architecture - Lyceum leverages the WordPress database architecture, extending multi-user blogging within a single instantiation of the WordPress schema.<br>* N-scalable and easily distributed - Lyceum allows administrators to seamlessly distribute the application across multiple web servers, as resource demands grow.<br>* Security-conscious design - Developed with a focus on security, at the application and execution layer. Leveraging the WordPress codebase, and structured to effectively deal with comment spam, administrators can feel secure with a transparent, well-designed product.<br>* Ease of install and upgrade - Lyceum is designed to be easy to install and upgrade. With a minimal filesystem footprint, Lyceum remains manageable as the Blogosphere scales.<br>* Perfect for the campus, enterprise - and small group - Lyceum retains the native functionality of WordPress, ensuring that groups small and large will enjoy use.
+

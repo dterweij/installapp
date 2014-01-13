@@ -1,0 +1,6 @@
+variable __db admin_email admin_username admin_password
+url http://www.lxcenter.org
+img installsoft.gif
+version 5.0.5001
+description Welcome to InstallApp. InstallApp is an Kloxo module that will let you add a growing list of applications to your website with just a click of the button. Please select the application from the left or right panel and follow the instructions to install the application.
+

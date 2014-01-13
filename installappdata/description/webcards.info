@@ -1,0 +1,6 @@
+variable   __db admin_username admin_password admin_email 
+url	 http://www.mywebcards.net
+version  1.1
+description webcard is a  powerful, efficient and easy to use e-card system. 
+detail   The WebCards system enables a Webmaster to add an "e-card" system to their website. The Webmaster can upload images for the user to put on their e-cards. He then has full control to add/edit/delete any of the pictures. The system includes a full administration control panel including ability to ban by email address and IP address, edit messages sent to recipients of a WebCard, template/CSS editor, ability to add/remove/edit further administrators and an admin toolbox for various maintenance tasks.The "send WebCard" page features the ability to filter images by category and will also verify email addresses. The system outputs friendly error messages and instructions on how to remedy the situation. <br> Featuring a full administration centre with a simple interface, visitors will enjoy communicating with their friends, bringing you more and more visitors.
+WebCards features a thumbnail generator, advanced banning controls, template editor, language manager, basic SQL manager and email log manager.

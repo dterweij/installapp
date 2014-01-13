@@ -1,0 +1,5 @@
+variable __db admin_email admin_username admin_password
+url http://www.toenda.com
+version 1.5
+description toendaCMS - Your ideas ahead is a publishing system.
+detail toendaCMS - Your ideas ahead is a publishing system and open-source content management framework, based on a modular structure. It has a user-friendly interface, is simple and intuitive to use. Making it easy to build and maintain a website or weblog wit.

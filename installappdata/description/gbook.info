@@ -1,0 +1,6 @@
+variable  admin_email admin_password 
+url http://phpjunkyard.com/php-guestbook-script.php
+version 1.5
+description Gbook is PHP based guestbook script
+detail  Guestbook is a PHP-based guestbook script. GBook doesn't require a MySQL database to run. You can set it up to process smileys, it can send you an e-mail notification when someone signs your guestbook and you can delete inappropriate messages. Visitors can even post private guest book messages which only you can read! This guestbook comes with IP banning, XHTML valid code, a bad words filter which replaces all bad words with **** in new posts and a secuirty switch which prevents floading.
+

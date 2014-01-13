@@ -1,0 +1,9 @@
+variable __db title admin_email admin_username_static_admin admin_message_static_password_sent_to_email
+url http://wordpress.org
+img wordpress.gif
+version 3.0.4
+adminarea wp-admin
+description  Wordpress is a powerful blogging software.
+detail WordPress was born out of a desire for an elegant, well-architectured personal publishing system built on PHP and MySQL and licensed under the GPL. It is the official successor of b2/cafelog. WordPress is fresh software, but its roots and development go back to 2001. It is a mature and stable product. We hope by focusing on web standards and user experience we can create a tool different from anything else out there.Wordpress is  a  state-of-the-art personal publishing platform with a focus on aesthetics,web standards, and usability.<br>WordPress is a powerful personal publishing platform, and it comes with a great set of features designed to make your experience as a publisher on the Internet as easy, pleasant and appealing as possible. We are proud to offer you a freely distributed, standards-compliant, fast, light and free personal publishing platform, with sensible default settings and features, and an extremely customizable core.
+
+

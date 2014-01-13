@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_secret
+url http://syntaxcms.org/
+img syntaxcms.gif
+version 1.3
+description  SyntaxCMS.
+detail SyntaxCMS simplifies publishing various types of content to a site, facilitates creating and managing arbitrary relationships among content items, automates and accelerates custom development, and encourages reuse of site components with other SyntaxCMS installations. It is built using PHP and MySQL and is licensed under the Common Public License.<br> It works fine in mysql 4.1

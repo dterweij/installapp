@@ -1,0 +1,6 @@
+variable admin_username_static_admin
+url http://biglickmedia.com
+img srecommender.gif
+version 2.3
+description Site Recommender. 
+detail This php Site Recommendation script will allow your visitors to enter their contact information and recommend your site to as many recipients as you specify (only one required). The default messages are easily modified. Look and feel is customizable via the stylesheet. You can choose to be notified when your site has been recommended...notification will show recipient(s) AND the message. Email addresses are hidden so they will not be harvested by spammers. Also contains error checking and validation and does not require database access.

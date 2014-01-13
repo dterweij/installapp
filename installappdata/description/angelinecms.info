@@ -1,0 +1,7 @@
+variable __db admin_email admin_username_static_root admin_password_static_root
+url http://angelinecms.com
+version 1.0.9.2
+description  AngelineCMS is an Content Management System (CMS) and a Web Development Framework.
+detail  AngelineCMS is an open source Content Management System (CMS) and a Web Development Framework. It's written from ground up to take advance of PHP5's object-oriented features. AngelineCMS is Open Source software under same friendly licencing as famous open source browser, Mozilla Firefox.AngelineCMS aims always to use latest and shiniest technologies. We started developing our current code base when first beta of PHP5 came out, we also use XSL for layout and adopted PDO for database connections, and we support multiple database backends.
+
+

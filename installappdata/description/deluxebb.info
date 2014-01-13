@@ -1,0 +1,5 @@
+variable __db admin_email admin_username admin_password
+url http://www.deluxebb.com
+version 1.0.9
+description Deluxebb is a fast message board system.
+detail 	

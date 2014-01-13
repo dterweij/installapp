@@ -1,0 +1,9 @@
+variable __db admin_username 
+url http://www.tsep.info/
+version 0.913
+description  TSEP is a search engine for a website.
+detail   TSEP is a search engine for a website - for your website!
+You can put a "Search this site" anywhere on your website and let people quickly find what they are looking for.<br> It works fine in 4.3x mysql versions.TSEP can be implemented into your layout (there is also a pre-made search page available)
+With only two lines of code you can add TSEP to your website and into your layout!. TSEP uses CSS for formating.You should be able to adjust any color, font, anything of the look to your needs.TSEP uses indexing profiles.The profiles enable you to split the indexing (and in future also the searching) process.
+
+

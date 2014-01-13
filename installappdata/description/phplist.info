@@ -1,0 +1,9 @@
+variable  __db admin_username_static_admin admin_password_static_password admin_email
+adminarea lists/admin
+url http://www.phplist.com
+version 2.10.7
+description  phplist is a one-way email announcement delivery system.
+detail  phplist is a one-way email announcement delivery system. It is great for newsletters, publicity lists, notifications, and many other uses. (It is different from group mailing list systems like mailman.)<br>The Web Interface lets you write and send messages, and manage phplist over the internet.<br> phplist keeps sending messages from your web server, even after you shut down your computer.100 000 + subscribers. phplist is designed to manage mailing lists with hundreds of thousands of subscribers. phplist is excellent with smaller lists too!.No duplicate messages. No 'forgotten' messages. phplist manages message delivery with a message queue, ensuring that every subscriber gets the email message, and that no subscribers receive two copies, even if they're subscribed to more than one list! <br> Open/View Tracking tells you how many users opened your email message. This provides a minimum statistic, as many email clients with privacy or security policies block images (gmail, thunderbird, and others). Click Tracking tracks links and URLs. Statistics can be viewed by message, URL or subscriber.
+
+
+

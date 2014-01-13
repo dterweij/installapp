@@ -1,0 +1,9 @@
+variable   __db admin_email admin_username_static_Admin admin_password_static_admin
+url http://www.zen-cart.com
+img zencart.gif
+version 1.3.9c
+adminarea admin
+description  Zen-Cart
+detail Zen Cart truly is the art of e-commerce; a free, user-friendly, open source shopping cart system. The software is being developed by group of like-minded shop owners, programmers, designers, and consultants that think e-commerce could be and should be done differently.<br>Some "solutions" seem to be complicated programming exercises instead of responding to users' needs, Zen Cart puts the merchants and shoppers requirements first. Similarly, other programs are nearly impossible to install and use without an IT degree, Zen Cart can be installed and set-up by anyone with the most basic web site building and computer skills.<br>There are hundreds of shopping cart programs available, but none come close to offering to level of options, features and support available with Zen Cart. Even the commercial programs have a hard time competing.
+
+

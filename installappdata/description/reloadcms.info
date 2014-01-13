@@ -1,0 +1,7 @@
+variable admin_email admin_username admin_password
+url http://reloadcms.com/
+version 1.2.6
+description ReloadCMS is a free CMS written on PHP and based on flat files.
+detail  ReloadCMS is a free CMS written on PHP and based on flat files. It does not need any DB installed and realise all abilities of high-level CMS like modularity, templates, users management, advanced rights system and package of main modules like articles, news, guestbook, minichat, filearchive and others.ReloadCMS is a full-featured, small, simple and flexible Content Management System for web sites.<br> ReloadCMS was designed for small and medium projects that need CMS that will run even on a cheap servers. ReloadCMS main features are:<br> * All CMS data is kept in flat files, so no database server is needed.<br> * Standart modules like articles, news, files archive, statistics, forum etc.<br> * Good security system. Integrated IDS.<br> *Great abilities for localisation: you can localise not only interface but all content of website.<br> * Templates support: simply create your design for website using our templates system.<br> * Flexible modules system: if you havent found your module in standart package, you can simply create your own.
+
+

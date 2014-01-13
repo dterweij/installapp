@@ -1,0 +1,9 @@
+variable __db admin_email admin_username admin_message_static_password_sent_to_email
+url http://drupal.org
+version 5.12.0
+img  drupal.gif
+description  Drupal is a content management system and blogging engine. 
+detail Drupal is software that allows an individual or a community of users to easily publish, manage and organize a great variety of content on a website. Tens of thousands of people and organizations have used Drupal to set up scores of different kinds of web sites, including community web portals and discussion sites,corporate web sites/intranet portals,personal web sites,aficionado sites,e-commerce applications,resource directories. <br> Drupal includes features to enable<br> * content management systems <br>  * blogs <br>  * collaborative authoring environments <br>* forums <br> * newsletters<br> * picture galleries<br>  * file uploads and download and much more.
+
+
+

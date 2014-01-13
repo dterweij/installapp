@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://hello-cms.org/
+img hellocms.gif
+version 0.0.7
+description  Hello-CMS.
+detail Hello! CMS is an Open Source content management system, written using PHP/Javascript, designed for personal homepages. It allows a single person to easily edit any part of a website without the hassle of backend/frontend separation (just like a Wiki) used by larger content management systems or the inflexible nature of blogging applications.<br>This CMS/Wiki is intentionally minimalist. It works with plain flat files, and not many features so that anyone can start using it very quickly. There is a template to personalize the look of generated pages.

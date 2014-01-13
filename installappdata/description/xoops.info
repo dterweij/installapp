@@ -1,0 +1,8 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://xoops.org
+img xoops.gif
+version 2.3.2b
+description XOOPS is a dynamic web content management system.
+detail XOOPS is an extensible, OO (Object Oriented), easy to use dynamic web content management system written in PHP. XOOPS is the ideal tool for developing small to large dynamic community websites, intra company portals, corporate portals, weblogs and much more.<br> XOOPS is a program that allows administrators to easily create dynamic websites with great content and many outstanding features. It is an ideal tool for developing small to large dynamic community websites, intra company portals, corporate portals, weblogs and much more. It can be installed on an Internet host with a PHP-capable web server. 
+
+

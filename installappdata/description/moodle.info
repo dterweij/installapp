@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_admin 
+url http://moodle.org
+img moodle.gif
+version 1.9.3
+description Moodle is a course management system.
+detail  Moodle is a course management system (CMS) - a free, Open Source software package designed using sound pedagogical principles, to help educators create effective online learning communities. You can download and use it on any computer you have handy (including webhosts).

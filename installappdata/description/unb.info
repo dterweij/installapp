@@ -1,0 +1,5 @@
+variable __db admin_email admin_username_static_admin admin_password_static_admin
+url http://newsboard.unclassified.de
+version 1.6.3
+description UNB is an  PHP-based internet bulletin board system.
+detail The Unclassified NewsBoard (short UNB) is an open-source, PHP-based internet bulletin board system, mostly like those you may already know. But the difference is in a lot of details that make your life with this board, both as administrator and user, much easier. Youll be surprised how easy things can be and how fast you can work with such a system! The Unclassified NewsBoard has a lot of innovative features the world has never seen before in this way. I run this project in my spare time, mostly because over two years ago, none of the freely available forum systems fully convinced me and because I found fun in that job.

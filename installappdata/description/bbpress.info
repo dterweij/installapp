@@ -1,0 +1,7 @@
+variable __db admin_email admin_username admin_message_static_password_sent_to_email
+url http://bbpress.org
+version 0.8.2.1
+description  bbPress is plain and simple forum software.
+detail bbPress is plain and simple forum software, plain and simple. Its easy to use, easy to administrate, fast and clean. But dont let its simplicity deceive you; underneath the gleam, its got some powerful features and is highly customizable.<br> Features<br>*Fast and light --- We keep our code lean so that you get the best experience possible.<br> * Simple interface --- One of our biggest goals is to keep things simple and make things intuitive. Our dream is that you forget youre even using the software.<br> *Customizable templates --- Not everybody likes the same pair of pants, so we allow you to dress up your forums however you like.<br>*Highly extensible --- bbPress cant toast your bagels, but a plugin for it sure could!<br>*Spam protection --- A built in Akismet client offers you an amazing weapon against spam.<br>* RSS Feeds --- You want feeds? We get em; theyre everywhere.<br>* Easy integration with your blog --- WordPress and bbPress are siblings, and they get along together a lot better than you and your brother did when you were kids! 
+
+

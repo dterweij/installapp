@@ -1,0 +1,8 @@
+variable __db admin_email admin_username admin_password
+url http://atutor.ca/
+version 1.5.5
+description ATutor is an Open Source Web-based Learning Content Management System.
+detail ATutor is an Open Source Web-based Learning Content Management System (LCMS) designed with accessibility and adaptability in mind. Administrators can install or update ATutor in minutes, develop custom templates to give ATutor a new look, and easily extend its functionality with feature modules. Educators can quickly assemble, package, and redistribute Web-based instructional content, easily retrieve and import prepackaged content, and conduct their courses online. Students learn in an adaptive learning environment.ATutor is the first inclusive LCMS, complying with the W3C WCAG 1.0 accessibility specifications at the AA+ level, allowing access to all potential learners, instructors, and administrators, including those with disabilities who may be accessing the system using assistive technologies. Conformance with W3C XHTML 1.0 specifications ensures that ATutor is presented consistently in any standards compliant technology.<br> ATutor has also adopted the IMS/SCORM Content Packaging specifications, allowing content developers to create reusable content that can be swapped between different e-learning systems. Content created in other IMS or SCORM comformant systems can be imported into ATutor, and visa versa. ATutor also includes a SCORM 1.2 Runtime Environment (LMS RTE3) for playing and managing SCORM based Sharable Content Objects (SCOs).
+
+
+

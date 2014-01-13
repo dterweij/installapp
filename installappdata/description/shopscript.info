@@ -1,0 +1,6 @@
+variable   __db admin_username_static_admin admin_password_static_password
+url http://www.shop-script.com
+img shopscript.gif
+version 1.0.0.0
+description  Shop-Script.
+detail Shop-Script PHP shopping cart software offers you the ability to build a search engine friendly online store with all most demanded ecommerce facilities. With Shop-Script you can instantly establish a professionally looking online store that is both functional and profitable.

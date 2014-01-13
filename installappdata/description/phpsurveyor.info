@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://phpsurveyor.org
+img phpsurveyor.gif
+version 1.0
+description  phpSurveyor.
+detail PHPSurveyor is a leading Open Source Online Survey Tool written in PHP.PHPSurveyor allows you to develop, publish and collect responses to surveys. PHPSurveyor includes a wide range of built-in question types, and a range of flexible options. Your surveys can include branching, your own preferred layout and design (using a templating system), and can provide basic statistical analysis of survey results. Surveys can be public, or can be strictly controlled through the use of "once-only" tokens for each survey participant.

@@ -1,0 +1,7 @@
+variable  __db admin_username_static_admin admin_password_static_admin1 
+url http://www.jetbox.streamedge.com
+version 2.1
+description  Jetbox.
+detail Jetbox content management system is seriously tested on usability & has a professional intuitive interface. The system is role based, with workflow and module orientated. All content is fully separated from layout. It uses php & mysql.<br>Jetbox CMS simple to use and has a professional intuitive interface. Its role based, has workflow , module orientated, XHTML comp., weblog and RSS, mailing list. It provides all the flexibilty to create a custom website for you client or for your personal use, without the standard Portal look and feel. Two video tutorials make an easy start; The introduction tutorial shows how to install Jetbox with the wizard and the basics about content publishing with the integrated workflow features. (32 minutes) The admin tutorial shows you how to create new administration sections with the integrated generator and how to add new sections to your website. In just 17 minutes you see; how to create two new administration section (and creating the database tables); one for books and one for book categories. And how to add the new book section to the website and customize the way it's displayed by editing the generated html templates.
+
+

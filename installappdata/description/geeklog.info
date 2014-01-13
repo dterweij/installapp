@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://geeklog.net/
+img geeklog.gif
+version 1.4.1
+description  Geeklog.
+detail Geeklog is a PHP/MySQL based application for managing dynamic web content.<br>"Out of the box", it is a blog engine, CMS or web portal with support for comments, trackbacks, multiple syndication formats, spam protection, and all the other vital features of such a system.<br>The core Geeklog distribution can easily be extended by the many community developed plugins to radically alter its functionality. Available plugins include forums, image galleries, and many more.<br>It is licensed under the terms of the GNU General Public License.

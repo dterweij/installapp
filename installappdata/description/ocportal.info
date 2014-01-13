@@ -1,0 +1,6 @@
+variable   __db admin_username admin_password admin_email 
+url http://ocportal.com
+version 4.0.4.1
+description ocPortal is website software which drives dynamic and interactive sites. 
+detail ocPortal is website software which drives dynamic and interactive sites. ocPortal enables you to build a highly personalised site (not just another cloned blog, forum, or portal) for far far less than you'd pay a web design company.<br>ocPortal has full customisability on every level for all its features, yet is designed to be extremely ease to get going and use, so you can get your site going on your own.
+

@@ -1,0 +1,8 @@
+
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://bblog.com
+img bblog.gif
+version 0.7.6
+description  bBlog.
+detail bBlog is a powerful, elegant personal publishing system written in PHP and released as free, Open Source software under the GPL. It is a flexible but simple way to blog that works for blogging be Web publishing system (also known as content management system) written in PHP and utilizing a MySQL database. It is used to manage frequently updated Web content, especially Weblogs, and is distributed under the GNU General Public License.<br>bBlog's design goals are based around using the Smarty PHP templating engine, with compatible plugin and template formats. This makes it very easy to modify the look and functions of your blog. bBlog is no longer in active development, but has been unofficially succeeded by Loquacity.<br>Features<br>* Smarty based templates and plugins<br>* Supports ATOM 0.3 and RSS 2.0 Syndication formats<br>* Threaded comments for enhanced discussion<br>* Threaded Trackback support<br>* Advanced typographic filters enable display of properly formatted and styled text.<br>* Integrated blogroll<br>* Advanced search<br>* Display RSS feeds on your blog.
+

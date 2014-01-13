@@ -1,0 +1,5 @@
+variable admin_username_static_admin admin_password_static_password
+url http://sourceforge.net/projects/lemon-cms
+version 1.10
+description Lemon CMS.
+detail Lemon CMS is a simple to use web based content management system that allows you easily, quickly and dynamically update the content on your website. The CMS uses a flat-file based system making it simple to port into any website.

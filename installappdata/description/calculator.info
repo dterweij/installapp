@@ -1,0 +1,6 @@
+variable admin_username_static_admin
+url http://epleweb.com/php/calculator
+version 1.3
+description Calculator.
+detail A calculator with the simple functions add, subtract, multiply and divide as well as more advanced functions like decimal to binary, decimal to hexadecimal, degree to radian, get COS, TAN, SIN, etc.
+

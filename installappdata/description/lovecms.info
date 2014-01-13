@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_password 
+url http://lovecms.org
+version 1.6
+description LoveCMS.
+detail LoveCMS is the smallest CMS availiable. It's main goal is to be simple and effective. You don't need to read tons of documentation to start producing your own websites. LoveCMS is installed in 2 minutes, including download time. 

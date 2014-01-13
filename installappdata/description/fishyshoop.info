@@ -1,0 +1,6 @@
+variable   __db admin_username_static_admin admin_password_static_admin
+url http://www.fishyshoop.com/
+img fishyshoop.gif
+version 0.930
+description  FishyShoop.
+detail FishyShoop is a FREE, powerful and great-looking shopping cart system. You can either integrate it to your current site or let it be your entire shop portal. Easy to install and configure, convenient, easy for customers to browse and buy, FishyShoop is one of the best shopping system available on the market.<br>FishyShoop has all the major features needed to start a web-based shopping cart. The following list has been produced from FishyShoop 0.791 Beta. Some features may have been added / removed / modified in future versions

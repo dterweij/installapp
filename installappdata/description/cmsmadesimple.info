@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://cmsmadesimple.org/
+img cmsmadesimple.gif
+version 1.1.1
+description  CMS Made Simple.
+detail CMS Made Simple is one of the more recent crop of PHP-based content management systems that allow the separation of content and design in web development. The package is simple enough to run family websites but at the same time it's mature enough to run big corporate websites as well.<br>Templates are stored in the database and can be written in standard (X)HTML using either tables or CSS-based design, allowing for design flexibility and a high level of W3/WAI compliancy (depending on the skills of the designer).<br>Other features include multi-user access and group-based permissions, file management, image management and a News module system as standard. Text can be input via a selection of word processor-alike interfaces called WYSIWYGS. Other modules include a cataloger, a front-end user control with self-registration, calendaring tools, advanced search, form builders and browsers and more.<br>The system is generally used for sites with more static content but can also be adapted for intranets and community or blog sites.The system has a core API with modules and tags that extend the system functionality.

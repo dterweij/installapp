@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://studiolounge.net
+version 1
+description Spoke Calculator.
+detail PHP spoke calculator is a free program for shop or personal use. I have included many features that i have not scene in any other widely available spoke calculator. It is good to note that the more accurate your measurements are the more accurate the final spoke length will be. The Pro Version includes support to add, edit, and delete from a Data Base making calculations simple and fast. Pro Features: * Setup Script * Dynamic Calculations * Store Data In a DB * Choose a hub and rim from the DB to do fast spoke calculations * Management including add, remove, edit * Search DB * Printer friendly * XHTML and CSS2 Standards * CVS back up * Per Page Navigation for large amounts of data. 

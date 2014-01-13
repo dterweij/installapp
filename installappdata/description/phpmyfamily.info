@@ -1,0 +1,9 @@
+variable __db admin_username_static_admin admin_password_static_admin
+url http://www.phpmyfamily.net/
+img phpmyfamily.gif
+version 1.4.1
+description phpmyfamily is a dynamic genealogy website builder.
+detail phpmyfamily is a dynamic genealogy website builder which allows geographically dispersed family members to maintain a central database of research which is readily accessable and editable. By having a central repository, family members can contribute as and when information becomes available without requiring them to send it to a central 'custodian', or disseminate via email, and allows anecdotal information and possible leads to be shared.Existing research can be imported from GEDCOM files, and users can see a person's pedigrees and upcoming anniversaries.
+
+
+

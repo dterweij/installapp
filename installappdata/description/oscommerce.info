@@ -1,0 +1,7 @@
+variable __db admin_username_static_admin admin_password_static_admin
+url http://oscommerce.com
+img oscommerce.gif
+version 2.2-rc2a
+adminarea admin
+description osCommerce 
+detail osCommerce is an online shop e-commerce solution that offers a wide range of out-of-the-box features that allows online stores to be setup fairly quickly with ease, and is available for free as an Open Source based solution released under the GNU General Public License.<br>Today, osCommerce has been taken to the next level, moving towards an e-commerce framework solution that not only remains easy to setup and maintain, but also making it easier for store administrators to present their stores to their customers with their own unique requirements.<br>The success of osCommerce is secured by a great and active community where members help one another out and participate in development issues reflecting upon the current state of the project.<br>You are more than welcome to contribute to the success of osCommerce by helping out in the realization of the project, by participating in the forums, by donating to the team developers and sponsoring the project, or just by spreading the word!

@@ -1,0 +1,6 @@
+variable admin_username_static_admin admin_password_static_password
+url http://www.cstruter.com
+version 1
+description phpCalendar.
+detail This class (once instantiated), displays a calendar on a web page, its highly customizable via CSS, can be used as a control on a form, or simply as part of a navigation system. Rendering firstly happens server-side, but during navigation rendering of the calendar happens without postbacks (if Javascript is enabled else the server takes over) Multiple calendars can be placed on a single page (refer to documentation)
+

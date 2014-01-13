@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_admin
+url http://bytesome.com
+version 4.1.1
+description PHP Web Calendar.
+detail PHP Web Calendar is a calendar built for speed and usability. My main goal was to have a calendar application, that would behave like a normal program (loading/updating almost instantly) but in a web browser. It is mutlilingual, as of now supporting three languages (English, Spannish and Japanese). Full List of features: Add/delete/edit events, user register/login, users can set who sees the event (everyone, logged in users, or themselves), users can change themes (more themes are being worked on), list mode, you can set background colors to events to highlight them, the calendar will last forever (i have seem some that only program it for set years, e.g 1999 + next five years, where as this one will do it from the current date), jump to button to jump around years/months, daily/weekly and monthly views and a crontrol panel. Please note: This is still under heavy development, all suggestions are welcome.

@@ -1,0 +1,6 @@
+variable admin_username admin_password admin_email
+version  1.2
+url http://www.timlinden.com/blog/scripts/phpmycounter/
+description  phpMyCounter is an easy to use counter script. 
+detail phpMyCounter is an easy to use counter script. It supports both text and graphical counters, and you can even add your own custom images.Other features include an email notification, counter length, counter size, and color themes.
+

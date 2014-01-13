@@ -1,0 +1,6 @@
+variable   __db admin_username_static_admin admin_password_static_password
+url http://www.ultrize.com/everydns/
+img everydns.gif
+version 2.0.0.3
+description  everyDNS.
+detail 

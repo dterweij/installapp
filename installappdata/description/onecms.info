@@ -1,0 +1,5 @@
+variable __db admin_username admin_password admin_email
+url http://www.insanevisions.com
+version 2.4
+description OneCMS is gaming CMS.
+detail OneCMS is a gaming-geared content management system that allows you to easily manage content, games with such features as its own forum software, custom fields, custom categories and much more.OneCMS is a gaming CMS that started it all and has nearly 10,000 downloads almost 2 years later to BlogPHP, a simple blog script uses on numerous sites and now with our two new Premium paid scripts, AdaptBB and AdaptCMS. We strive to simply provide great products to make webmastering an easier and fun experience.

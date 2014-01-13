@@ -1,0 +1,6 @@
+variable admin_username_static_admin
+url http://www.hypersilence.net/silentum_event_calendar.php
+version 1
+description Silentum Event Calendar.
+detail Silentum Event Calendar is a basic PHP calendar that you can integrate into your site effortlessly. It uses the time() and date() functions to operate, so the calendar is entirely accurate. The month and year are displayed at the top, as well as the days of the week. The current day on the calendar is highlighted so you can identify which day it is. All the past days are darkened, and the numbers are struck out. Silentum Event Calendar's main purpose is for events. These events are written to the top of the PHP file, and are displayed underneath the calendar itself. They change automatically each day, so you can write your events a month in advance. This could also be used as a random text generator, or a personal day planner. The calendar uses just a single PHP file. It fits easily into any page, and can prove helpful in many instances.
+

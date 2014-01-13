@@ -1,0 +1,6 @@
+variable   __db admin_username_static_root admin_password_static_password 
+url http://www.mymarket.sourceforge.net/
+img mymarket.gif
+version 1.72.0.1
+description  MyMarket
+detail MyMarket is a fully functional online shopping catalog system, built using PHP and MySQL. It was created by Ying Zhang  for the purpose of teaching people about the basics of creating an E-Commerce site.

@@ -1,0 +1,6 @@
+variable __db admin_email admin_username_static_admin admin_password_static_dolphin
+url http://www.boonex.com/products/dolphin/
+version 5.6.0.2
+adminarea admin
+description Dolphin is free, full-featured, professional and secure community software. 
+detail 	Dolphin is free, full-featured, professional and secure community software that allows you to start a unique on-line community web site. Dolphin Smart Community Builder is simple to manage and easy to customize using PHP, MySQL, XHTML based community script. Features: design templates, multiple languages, advanced search, flash chat, Orca  interactive forum script integrated, e-cards, blogs, media gallery, supports a/v chat, a/v IM, a/v recorder, mp3 player, web presence by Ray - #1 Community Widget Suite, profile polls, profile ratings, friends list, shout box, payment providers, advanced admin panel, banner rotation system. With Dolphin Smart Community Builder you have complete freedom to build any community you wish. All you need is idea!

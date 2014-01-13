@@ -1,0 +1,6 @@
+variable __db admin_username admin_password
+url http://www.cmsdevelopment.com/bcwb_en/
+version 2.5
+description Buisness Card (Personal Site) Web Builder is WYSIWYG content management system.
+detail bcwb is an acronym for Buisness Card (Personal Site) Web Builder. The program represents a WYSIWYG content management system (CMS) for web- visit cards, personal sites, promo-sites, VIP - sites and other small web - projects. BCWB does not require database (!) presence. Technology W3C XML/XSLT is applied in the system. As a result, a website assembled in BCWB, can be given any representation form with the help of XSLT full functionalities including vector-graphical representation in SVG format.Content management system with direct pages editing based on user W3C XSLT patterns representation. 
+

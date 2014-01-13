@@ -1,0 +1,6 @@
+variable __db admin_username admin_password admin_email
+url http://etomite.com/
+version 0.6.1.4
+description  Etomite is a robust Content Management Framework.
+detail Etomite is an adaptable Web Content Management System plus a robust Content Management Framework. Written in PHP and using a MySQL database back end, it provides an intuitive "manager" in an effort to make creating web projects faster and easier for end users. Its flexible API aims to provide developers a straightforward way to change the core functionality or behavior of the application without having to resort to hacking the core code itself. It therefore allows for customizations as well as a more straightforward, simple future upgrade path.<br>Some of Etomite's main features are as follows:<br>* Caching of individual pages<br>* HTML-Export (for the production of a static version of the Website)<br>* Integrated visitor statistics<br>* WYSIWYG - for modification of contents (alternatively)<br>* Complex user, groups and right management<br>* Simple visual adjustment by template-based design
+

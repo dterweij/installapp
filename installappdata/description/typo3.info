@@ -1,0 +1,10 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://typo3.com
+version 4.0.4
+img  typo.gif
+description TYPO3 is a free Open Source content management system for enterprise purposes on the web and in intranets. 
+detail TYPO3 is a free Open Source content management system for enterprise purposes on the web and in intranets. It offers full flexibility and extendability while featuring an accomplished set of ready-made interfaces, functions and modules.
+
+
+
+

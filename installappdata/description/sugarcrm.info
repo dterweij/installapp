@@ -1,0 +1,6 @@
+variable __db 
+url http://sugarcrm.com/crm
+img sugarcrm.gif
+version 4.5.1
+description  SugarCRM.
+detail SugarCRM is the world's leading provider of commercial open source customer relationship management (CRM) software for companies of all sizes. Sugar easily adapts to any business environment by offering a more flexible, cost-effective alternative than proprietary applications. SugarCRM's open source architecture allows companies to more easily customize and integrate customer-facing business processes in order to build and maintain more profitable relationships. SugarCRM offers several deployment options, including on-demand, on-premise and appliance-based solutions to suit customers' security, integration and configuration needs.

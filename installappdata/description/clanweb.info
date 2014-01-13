@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://clanadmintools.com/
+version 1.4.2
+description  ClanWeb.
+detail ClanWeb (CW) is created for e-Sport clans that need a simple admin system to their site. CW is totally free of charge and satisfies the needs that a clan might have. ClanWeb is based on PHP coding and MySql databases. You can use CW even if you're not familiar with PHP and MySql. All it takes is some knowledge in html-coding.

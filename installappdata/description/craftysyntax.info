@@ -1,0 +1,8 @@
+variable __db title admin_email admin_username admin_message_static_password_sent_to_email
+url http://craftysyntax.com
+img wordpress.gif
+version 2.0.15
+description  Crafty Syntax is an open source chat tool.
+detail Crafty Syntax Live Help (CSLH) is an open source live support solution that helps customer support with live help functionality that can be proactively pushed to visitors to your site or requested by the consumer. Crafty Syntax includes a large range of features to allow multiple operators, multiple departments and multiple languages to be used.
+Crafty Syntax Live Help is free and is progammed in PHP with Mysql for the datatabase. Other highlighted features include the ability to create your own questions, auto inviting visitors, referer tracking, page tracking, ability to view what the customer is typing as they type, multiple chat sessions, sound alert, leave a message if offline, push urls, quick responses, Customizable graphics, and multiple operators. runs on your server and is open source GPL. 
+

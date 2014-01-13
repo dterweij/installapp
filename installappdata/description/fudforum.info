@@ -1,0 +1,6 @@
+variable __db admin_email admin_username_static_admin admin_password_static_password
+url http://fudforum.org
+version 2.7.7.1
+description FUDforum is a highly customizable forum package, with a large feature set. 
+detail 	FUDforum is a highly customizable forum package, with a large feature set. The easy to use administration control panel allows the administrator to easily configure and control the many features available. The forum also includes an interactive help package, which helps to familiarize users with the full potential of FUDforum.
+

@@ -1,0 +1,5 @@
+variable admin_username_static_admin admin_password_static_password 
+url http://m-tecs.net
+version 2.1
+description phpWebEd.
+detail phpWebEd is an easy to use online content editing system for PHP-driven Webpages. You can edit the contents of your Web pages from everywhere in the world with just a Web browser. As an extension to this set of scripts there is also a WYSIWYG editor available.

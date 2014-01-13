@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://e107.org/
+img e107.gif
+version 0.7.9
+description  E107.
+detail e107 is an open source content management system (CMS) that allows for the quick creation and management of websites or community portals. Built using PHP and database support via MySQL, it can be used for websites or for local intranet pages, it currently has support for several languages available as additional downloads.<br>Its name is derived from the fact it was the 7th main project the creator had worked on.<br>e107 is released under the terms of the GNU General Public License.

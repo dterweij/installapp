@@ -1,0 +1,10 @@
+variable __db  admin_username  admin_password 
+url http://www.phpdig.net/
+img phpdig.gif
+version 1.8.9.9
+description phpdig is a PHP MYSQL based webspider search engine
+detail PhpDig is a web spider and search engine written in PHP, using a MySQL database and flat file support. PhpDig builds a glossary with words found in indexed pages. On a search query, it displays a result page containing the search keys, ranked by occurrence.<br>  PhpDig follows HREF links as shown by any web browser to find the pages to index. Links can also be in AreaMap, frames, or simple like window.open() or window.location() JavaScript. PhpDig supports redirections and indexes by following links. PhpDig does not traverse directories or database tables to index content.<br>PhpDig indexes all words of a document, but you can avoid common words by defining such words in a text file. Underscores and other characters can be part of a word. Words in the title can have a more important weight in ranking results.<br>PhpDig indexes HTML and text files by itself. PhpDig could index PDF, MS-Word, MS-Excel, and MS-PowerPoint files if you install external binaries on the server for this purpose. PhpDig is configured to use catdoc, xls2csv, pstotext or pdftotext, and ppt2text programs.
+
+
+ 
+

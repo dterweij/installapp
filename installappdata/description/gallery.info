@@ -1,0 +1,7 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://gallery.menalto.com/
+img gallery.gif
+version 1.40.1
+description  Gallery.
+detail 
+

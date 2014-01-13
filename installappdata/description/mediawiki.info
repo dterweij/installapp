@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://mediawiki.org
+img mediawiki.gif
+version 1.9.3
+description MediaWiKi. 
+detail MediaWiki is a free software wiki package originally written for Wikipedia. It is now used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this very website, the home of MediaWiki.MediaWiki is free server-based software, that is licensed under the GNU General Public License (GPL). It's designed to be run on a large server farm for a website that gets millions of hits per day. MediaWiki is an extremely powerful, scaleable software and a feature-rich wiki implementation, that uses PHP to process and display data stored in its MySQL database.<br>Pages use MediaWiki's wikitext format, so that users without knowledge of XHTML or CSS can edit them easily.<br>When a user submits an edit to a page, MediaWiki writes it to the database, but without deleting the previous versions of the page, thus allowing easy reverts in case of vandalism or spamming. MediaWiki can manage image and multimedia files, too, which are stored in the filesystem. For large wikis with lots of users, MediaWiki supports caching and can be easily coupled with Squid proxy server software.

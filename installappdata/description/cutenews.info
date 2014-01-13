@@ -1,0 +1,5 @@
+variable admin_email admin_username admin_password
+url http://cutephp.com/
+version 1.4.5
+description Cute news is a powerful and easy to use news management system.
+detail  Cute news is a powerful and easy to use news management system that uses flat files to store its database. It supports commenting, archives, search function, file upload management, backup & restore, IP banning, flood protection.

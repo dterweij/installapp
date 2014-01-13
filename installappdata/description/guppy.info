@@ -1,0 +1,6 @@
+variable admin_email admin_password_static_pass
+url http://www.freeguppy.org
+version 4.5.18.4
+adminarea admin
+description GuppY, the easy, free and databaseless web portal.
+detail  GuppY, the easy, free and databaseless web portal, will allow you to generate very easily a complete and interactive web site.GuppY is a web portal system powered by PHP that requires no database to run that gives you a totally dynamic and professional website It's simple wizard type install process will have you up and running in 5 minutes, and it's completely free.

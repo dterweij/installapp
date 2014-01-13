@@ -1,0 +1,6 @@
+variable __db admin_email admin_username_static_admin admin_password
+url http://www.b2evolution.net
+version 2.4.5
+description b2evolution is a multilingual multiuser multiblog engine.
+detail   In a nutshell, b2evolution is a classy news and weblog tool that runs on almost any Web hosting service that supports PHP & MySQL. It features an integrated XHTML validator, supports recursive subcategories, cross posting and has an integrated skinning system. <br> b2evolution is a medium scale CMS centered around the Blog concept (fully featured with multiple blogs, content/presentation separation, full user management, full i18n...) and extending towards features normally provided by Wikis, Trackers or hierarchy driven CMSes.
+

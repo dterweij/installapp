@@ -1,0 +1,7 @@
+variable __db admin_username admin_password admin_email
+url http://www.punbb.org
+version 1.2.15.2
+adminarea upload/admin_index.php
+description PunBB is a fast and lightweight PHP-powered discussion board. 
+detail PunBB is a fast and lightweight PHP-powered discussion board. It is released under the GNU General Public License. Its primary goals are to be faster, smaller and less graphically intensive as compared to other discussion boards. PunBB has fewer features than many other discussion boards, but is generally faster and outputs smaller, semantically correct XHTML-compliant pages.<br>The idea of PunBB was first born when I needed a discussion board for a website I was working on. After an exhaustive search, all the boards I found were either over-featured or too graphic for my needs. I wanted a package that <br>* was fast.<br> * had a simple layout and design.<br>* was easy to administrate and moderate.<br>* didn't output huge, non-valid, (X)HTML pages.<br>* had source code you could read and understand.
+					

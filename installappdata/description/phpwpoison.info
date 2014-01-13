@@ -1,0 +1,9 @@
+variable admin_username
+url http://www.mariovaldez.net/software/phpwpoison
+version 1.2.0
+description  The PHP Spam Poison is a fake-page generator.
+detail The PHP Spam Poison is a fake-page generator that simulates long lists of fake email addresses and links to more fake generated pages. So, when spam-robots (spam spiders) try to harvest email addresses from your website, they get hundreds or thousands of fake email addresses, effectively poisoning their databases with useless data.
+
+
+
+

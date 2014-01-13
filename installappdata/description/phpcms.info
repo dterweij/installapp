@@ -1,0 +1,9 @@
+variable admin_email  admin_password_static_password
+url http://phpcms.de
+version 1.2.2
+description   phpCMS is a cms and also a templating engine and an application framework.
+detail  phpCMS is more than just a content management system: it is also a templating engine and an application framework.<br>phpCMS simplifies many tasks for maintaining complex web sites. phpCMS automatically updates the sitemap, has central administration of menus, and has a comprehensive full-text search. It simply and powerfully separates site layout from site content. This leaves the webmaster free to focus on perfecting the site, instead of wrestling with its coding.
+
+
+
+

@@ -1,0 +1,7 @@
+variable admin_email admin_username_static_root admin_password
+url http://www.eyeos.org
+version 0.9.3
+description eyeOS, a web based operating system.
+detail eyeOS, a web based operating system. With eyeOS you can access your data and your applications anywhere, anytime. A virtual office in your hands, no need to install anything in the computer. Everything lives in the browser, for you and your work colleagues.Make your life easier with the virtual word processor, calendar, file manager, messenger, browser and other applications. And if you want more applications, just visit the eyeOS Application Database! 
+
+

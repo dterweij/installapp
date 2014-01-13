@@ -1,0 +1,5 @@
+variable __db admin_username_static_root admin_password_static_password admin_email
+url http://nfec.de
+version 2.1.1.6
+description RechnungsZentrale V2.
+detail The RechnungsZentarle V2 is a multilingual, multiuser invoicing webapplication. You can handle from everywhere the invoices of your customers. Share customers with other admins. And if you want you can can use the export the bills as PDF and send them to your customers. You can collect invoice line items and create later on invoices based on them.

@@ -1,0 +1,6 @@
+variable admin_password_static_test
+url http://www.bbclone.de
+version BBClone0.4.9b.
+description BBClone is a  PHP based Web Counter on Steriods.
+detail BBclone is a web counter written in PHP and gives a detailed view of the visitors of your web site by displaying the nth last users (and the data they provided, like their IP, browser and so on) that visited the web site, not just showing a number of visitors. This is very handy for webmasters that want to see who is visiting their sites, what browser people use, where they came from etc.<br>For each visitor, BBClone can display<br>* IP address,<br> * hostname,<br>    * operating system,<br>    * robots,<br>  * browser,<br>    * referring URL (where do they come from),<br> * visit date,<br> * number of time the visitor has loaded the page,<br>* number of visitor<br> * the visited pages in the order someone viewed them<br>  * the last visited page<br> * the search engine query that lead to your site (if applicable)<br>   * ranking of the most frequent countries,referrers, OS, browsers, robots, page views and hostnames
+

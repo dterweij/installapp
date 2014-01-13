@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_admin admin_email
+url http://easysitemaker.net
+version 1.01
+description V2 CMS.
+detail V2 CMS is a powerful Content Management System (CMS) capable of satisfying the web-development needs of a vast array of different users. V2 CMS gives nontechnical people the ability to quickly add, edit, and delete content on their websites by using a highly-intuitive back end interface.

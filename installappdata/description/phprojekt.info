@@ -1,0 +1,6 @@
+variable __db admin_username_static_root admin_password
+url http://phprojekt.com
+img phprojekt.gif
+version 5.2
+description  Phprojekt is an excellent open-source, web-based (php), multiplatform, groupware solution.
+detail PHProjekt is a groupware, a software, which allows teams to share information or documents, or plan plan a lot of things. PHProjekt is usable over the Internet or via Intranet environment<br>PHProjekt is a modular application for the coordination of group activities and to share informations and document via the web.Components of PHProjekt: Group calendar, project management, time card system, file management, contact manager, mail client and many other modules.PHProjekt supports many protocols like ldap, xml/soap and webdav and is available for 38 languages and 9 databases.

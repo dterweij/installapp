@@ -1,0 +1,8 @@
+variable __db  admin_email_login admin_password 
+url http://phpbt.sourceforge.net/
+img phpbt.gif
+version 1.0.1
+description phpbt is a  web-based bug tracking system
+detail  phpBugTracker is a web-based bug tracker with functionality similar to other issue tracking systems, such as Bugzilla. Design focuses on separating the presentation, application, and database layers.<br> Here's a quick list of some of the features of this software:<br>   * Track bugs by multiple users on multiple projects <br> * Bug history showing changes made to a bug over its lifetime <br>  * Restrict projects to certain groups of users<br> * The option to store passwords encrypted in the database<br> * Use of CSS to easily change the color scheme<br> * HTML templates allow you to completely change the look of the interface <br>* Flexible bug search capabilities <br> * Localization -- Have status messages in your native language<br> * File attachments for bugs <br>   * Anonymous browsing of bugs <br> * Web-based installation <br>* Links to a cvs web interface from bug comments <br> * Bug dependencies
+
+

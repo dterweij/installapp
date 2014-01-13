@@ -1,0 +1,5 @@
+variable __db admin_email admin_password_static_password
+url http://supercali.inforest.com
+version 1.0.2
+description SuperCali.
+detail SuperCali is a free event calendar script that supports nested categories of events and multiple moderators, making it a good choice for organizations managing a large number of activities. SuperCali is designed to make data entry as easy and error-free as possible as well as provide a flexible, modular framework for displaying event information. SuperCali works with PHP and MySQL and is "open source" software released under the GNU General Public License. Features: * Quick installation script * Nested event categories * Multiple moderators and users * Multiple dates for each event * Drop-down venue and contact selection * Javascript to assist data entry * XHTML/CSS output makes it easy for Web designers to customize. 

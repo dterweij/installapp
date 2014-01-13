@@ -1,0 +1,9 @@
+variable  __db admin_email admin_username admin_password
+url http://www.phpbb.com
+version 3.0.7-PL1
+img phpbb.gif
+description  phpbb is a high powered, fully scalable,and highly customisable forum
+detail phpBB is a high powered, fully scalable, and highly customizable Open Source bulletin board package. phpBB has a user-friendly interface, simple and straightforward administration panel, and helpful FAQ. Based on the powerful PHP server language and your choice of MySQL, MS-SQL, PostgreSQL or Access/ODBC database servers, phpBB is the ideal free community solution for all web sites.<br> phpBB is based on PHP, the fastest growing server-side scripting language on the web, which results in one of the fastest, feature-rich bulletin board systems available anywhere.In addition, phpBB is open-source software so it has no fees, no subscriptions, and no restrictions on modifications. Couple this with a thriving and friendly phpBB community and you have a killer solution for creating communities on your site!
+
+
+

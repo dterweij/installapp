@@ -1,0 +1,6 @@
+variable __db admin_email admin_username_static_admin admin_password_static_password
+url http://websitebaker.org
+version 2.6.5
+description Website Baker is a PHP-based Content Management System. 
+detail Website Baker is a PHP-based Content Management System (CMS) designed with one goal in mind: to enable it's users to produce website with ease.
+

@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://silverstripe.com/
+img silverstripe.gif
+version 2.0.0
+description SilverStripe.
+detail SilverStripe is a free software / open source content management system (CMS) for creating and managing websites through a simple web interface. It has many advanced features. These features include an MVC framework, XHTML compliance, multiple ways of organising navigation through folksonomy, a flexible data object model, multiple templates per page, a separate "draft site" and "published site through staging content, asset management , image resizing, versioning and rollback, SEF URLs with meta-data. SilverStripe is designed for UTF-8 support including internationalisation of character sets. It also deploys content through RSS and full text search, including searching of PDF's and Word documents.<br>SilverStripe 2.x coding began in late 2005, as an overhaul to take advantage of object orientation and other features of PHP5, and to allow Firefox/Macintosh compatibility, which had been difficult as SilverStripe 1.x predated Firefox.

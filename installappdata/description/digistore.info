@@ -1,0 +1,6 @@
+variable  __db admin_email admin_password_static_admin
+url http://www.digistore.co.nz
+version 3.2.0
+description  Digistore is a full content management system.
+detail Digistore Ecommerce is a fully featured store based on the popular osCommerce engine. Boasting improvements both to the administration and the end user experience - Digistore has quickly become a popular choice for people wishing to market products online.Whether you are an established online retailer, or a new business venture, Digistore provides the foundation for successful online marketing.<br>Digistore is a full content management system that requires no HTML or programming knowledge to operate.
+

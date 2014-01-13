@@ -1,0 +1,6 @@
+variable __db admin_email_login admin_password_static_admin
+url http://www.eggblog.net
+version 3.1.0
+description eggblog is used to create your own online website, journal or weblog.
+detail eggblog is a free php & mysql package, allowing you to create your own online website, journal or weblog (blog).Powered by the freely available PHP & MySQL, eggblog has a wide range of features including:<br> * download Themes to change the look of your site<br> *download plug-ins to add further features and functionability to your site.<br> * easy administration to add, edit, disable and delete articles and user posts.<br>* pre-installed with one administration account with the option to add more.<br>  * guest comments on blog articles.<br>* unlimited photo albums.<br> *unimited forum topics and posts <br> * automatic monthly archiving of all articles.<br> *<br> search engine to search all articles<br> *valid HTML 1.1, valid CSS 1.0 and WAI friendly <br> * seperate valid XML RSS 1.0 feeds for both articles and form topics.
+

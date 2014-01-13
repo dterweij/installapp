@@ -1,0 +1,7 @@
+variable __db admin_username_static_test admin_password_static_123
+url http://javazone.de/demo/guestbook/index.php
+img gbook.gif
+version 2.4.3
+description advGuestbook is PHP based guestbook script
+detail Advanced Guestbook is a PHP-based guestbook script. It includes many useful features such as preview, templates, e-mail notification, picture upload, page spanning, html tags handling, smilies, advanced guestbook codes and language support. The admin script lets you modify, view, and delete messages. Requires PHP4 and MySQL.
+

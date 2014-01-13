@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://www.ikemcg.com
+version 0.2.2
+description phpEventCalendar.
+detail phpEventCalendar is a mysq backed application that allows users to post and display events or notes on month-at-a-glance calendar. Because only authorized users can add events or posts, the calendar is perfect for organizations that want to communicate upcoming events to a larger audience. phpEventCalendar comes with a user administration panel, and two user levels. One user type can post events, and add or edit users, while the other user type can only post events.

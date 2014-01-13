@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://herve.labas.free.fr/acid/en/
+version 1.4.3
+description Associated.
+detail AssoCIateD is a simple CMS, assciation oriented. It provides news management, calendar, customizable menu, blog-like articles and gallery manager. It's written in PHP 4, PHP 5 compatible, without extension needed apart from GD to generated the galleries thumbnails. Last release includes a full activity log management. Next release will include a powerfull rights management to let it fulfill anyone's needs.

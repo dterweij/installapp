@@ -1,0 +1,7 @@
+variable __db title admin_email admin_username_static_admin admin_message_static_password_sent_to_email
+url http://phpsupporttickets.com/
+img wordpress.gif
+version 2.2.0
+description  PHP support tickets is email ticketing software.
+detail Triangle Solutions Ltd is pleased to provide PHP Support Tickets (PHPST) - The powerful, all-in-one email helpdesk / ticketing software that is incredibly easy to use and a snap to install. This application was written following design pattern principles and Object Oriented design. Developers delving into the code may be a bit disorientated at first, because the code doesn’t follow the common php/template pattern. The design is instead focused on expandability and ease of maintenance. Most of the visual aspect of the application is controlled by CSS stylesheets, while the internal workings are neatly and coherently organised in logical classes and methods. 
+

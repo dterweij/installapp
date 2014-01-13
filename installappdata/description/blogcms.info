@@ -1,0 +1,7 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://blogcms.com
+img blogcms.gif
+version 4.2.1.1
+adminarea admin
+description  Blog:CMS.
+detail BLOG:CMS is the most complete, feature-packed, personal publishing system on the market, developed by Radek Hulán. It includes state-of-the-art weblog, forum, wiki engine, news aggregator (atom / rss), and photo gallery.BLOG:CMS is probably the only system that is not only w3c valid, but also ships with application/xhtml+xml MIME type by default, for top performance on modern browsers like Mozilla, Firefox, Safari and Opera. But BLOG:CMS will also automatically supply older standard, text/html, to browsers which cannot handle this, like obsolete Microsoft Internet Explorer.

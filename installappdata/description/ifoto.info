@@ -1,0 +1,5 @@
+variable admin_username_static_admin admin_password_static_password admin_email
+url http://ifoto.ireans.com
+version 1.0
+description ifoto is a simple file-based photo gallery.
+detail This is yet another really simple file-based PHP photo gallery called, iFoto. iFoto use 90% CSS-based HTML layout and extremely customizable, from the HTML layout until the photo processing features. Using PHP and GD2 library make this application an awesome really-simple web-based photo gallery! This photo gallery system using hard-folder to store photo. And to upload and manage photo, you need FTP access. Again, it is really simple photo gallery. 

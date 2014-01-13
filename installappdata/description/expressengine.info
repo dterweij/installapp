@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password admin_email
+url http://expressionengine.com
+version 1.5.2
+description The most powerful, feature-rich content management system.
+detail  ExpressionEngine is a flexible, feature-rich content management system that empowers thousands of individuals, organizations, and companies around the world to easily manage their website.
+

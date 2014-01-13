@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password admin_email
+url http://wiki.splitbrain.org/wiki:dokuwiki
+img dokuwiki.gif
+version 2010-11-07a
+description  DokuWiki.
+detail DokuWiki is a wiki software aimed at small companies documentation needs. DokuWiki is licensed under GPL 2 and written in the programming language PHP. It works on plain text files and thus needs no database. Its syntax is similar to the one used in Wikipedia and makes sure the data files remain readable outside the wiki.

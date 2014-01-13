@@ -1,0 +1,5 @@
+variable __db admin_email admin_username admin_password
+url http://www.runcms.org/
+version 1.5.1
+description 
+detail RunCMS is a comprehensive content management system (CMS) where ease of use, speed, & flexibility are the main development keypoints.RunCms Includes most things a webmaster would expect from a cms:Downloads, links, tutorials section, polls, forums, news, faq, contact form, rss feeds, file uploads, blogging via xml-rpc, & more.<br>Possibility to manage users as groups with module/block specific access permissions,	and extend functioality via 3rd party module plug-ins.Has a simple yet good themability.Easy enough to use for users, while staying simple enough to extend & customize for coders. RunCMS operates in the lineage of the CMS like PHPnuke and Xoops of which he is the descendant. 

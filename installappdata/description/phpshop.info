@@ -1,0 +1,10 @@
+variable __db admin_username_static_admin admin_password_static_test
+url http://phpshop.org
+img phpshop.gif
+version 0.8.1
+description  PhpShop is a  php based shopping cart application.
+detail phpShop is a PHP-powered shopping cart application. It is released under the GNU General Public License. The primary purpose of phpShop is to provide a simple shopping cart solution that is easy to customize to suit any purpose. phpShop has less features that many other shopping cart applications, but is generally easier to customize. All that is required to effectively customize phpShop is a basic knowledge of HTML, PHP, and SQL.<br>The original developers of phpShop needed to build a shopping cart web site. A search for an open source solution was conducted and it was found that several solutions were available. However, they found that many of the solutions were much too primitive. Other solutions were fairly complete but much too complicated to learn since they used their own tag language or were based on early CGI scripting languages. And most importantly, the solutions were dificult to customize. What the developers really needed was a shopping cart that:<br> * was easy to customize.<br> * had source code that was easy to understand.<br>  * was based on a programming language that was easy to learn.<br>  * was easy to design new layouts in a web page design program. <br>phpShop is easy to customize. The phpShop source code is easy to understand. phpShop is based on PHP. It is easy to design new layouts using a web page design program.
+
+
+
+

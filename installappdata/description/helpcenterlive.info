@@ -1,0 +1,9 @@
+variable __db title admin_email admin_username admin_message_static_password_sent_to_email
+url http://helpcenterlive.com/
+img wordpress.gif
+version 2.1.7
+description  Help center live is a online chat application software.
+detail Help Center Live is an open-source, community driven live chat & support system. You may easily provide live support on your website just like large companies do with very little work. With Help Center Live, you can provide a real-time, live support or sales person experience.
+
+
+

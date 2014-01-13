@@ -1,0 +1,6 @@
+variable 
+url http://www.globalautoindex.com/
+img autoindex.gif
+version 2.2.0
+description  <table border=0> <tr> <td > Indexing of files </td></tr></table>
+

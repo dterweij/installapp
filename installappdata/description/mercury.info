@@ -1,0 +1,5 @@
+variable __db admin_email admin_username admin_password
+url http://www.mercuryboard.com
+version 1.1.5
+description MercuryBoard is a powerful message board system.
+detail 	MercuryBoard is a powerful message board system dedicated to raw speed with a mixture of features, ease of use, and ease of customization coupled with expandability, and diverse language services.

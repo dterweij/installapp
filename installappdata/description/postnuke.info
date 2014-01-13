@@ -1,0 +1,8 @@
+variable __db admin_username_static_Admin admin_password_static_Password admin_email
+url http://www.postnuke.com
+img postnuke.gif
+version 0.764.0.1
+description PostNuke is a Flexible Open Source Content Management System 
+detail PostNuke is software that creates an impressive, dynamic web site and provides the webmaster with a site they can administer with a minimal amount of HTML knowledge through a web browser.<br>But, PostNuke's functionality can be increased by installing modules, blocks and themes. For example, you can add a forum, a gallery and contact form. You can also change how your entire site looks by changing themes. All of this can be done with just a few clicks in the administration panel saving you hours of time, both in the initial creation of the website and in its day to day maintenance.<br>PostNuke can do anything from traditional blog websites, to a community members' only website with hundreds of users. PostNuke can scale to thousands of uses but is just as easy to create a small website for friends and family.<br>Features include:<br>* Modular Structure<br>* Customized Functionality through Third-Party Modules<br>* Advanced User Group Permissions System<br>* Multi-language Support (About 36 Language Packs Available)<br>* Embedded WYSIWYG HTML Editor Activated<br>* Site Search<br>* Advanced API (Application Programming Interface)<br>* Focused on High Level of Security<br>* Easy-to-Use Guided Browser Based Installation and more!<br>Key advantages include:<br>* Open Source - GNU GPL Licensed<br>* Adheres to W3C standards (XHTML and CSS2)<br>* Accessable output - follows WCAG accessibility guidelines<br>* Search engine optimized output
+
+

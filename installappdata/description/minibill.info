@@ -1,0 +1,7 @@
+variable   __db admin_username_static_admin admin_password_static_password
+url http://www.ultrize.com/minibill/
+img minibill.gif
+version 2
+description  MiniBill.
+detail MiniBill Features<br>* Written in PHP<br>* Fully Templated Using Smarty Templates<br>* GPL and Open Source Billing Software<br>* MySQL Support<br>* Win32 or Linux<br>* Billing for web hosting, ISP's, "virtual" stores<br>* Easy Plugin Support, with many plugins on the way<br>* Invoice via email<br>* Anniversary Recurring Billing (via cron)<br> o Billing gateway through Authorize.Net<br> o Soon to have paypal IPN Module<br>* Pre-Billing and Invoicing<br>* Custom invoice look/feel per order template category<br>* User Purchase Register<br>* Unlimited Products/services and Categories<br>* Simple Inventory Support
+

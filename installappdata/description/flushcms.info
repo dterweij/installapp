@@ -1,0 +1,9 @@
+variable __db admin_username_static_admin admin_password_static_admin admin_email
+url http://flushcms.518ic.com
+version 1.0.0
+description FlushCMS is a Content Mangage System.
+detail FlushCMS is a Content Mangage System . Use PHP+Apache+Mysql. If your want to quick create your own web site, If your want to easy manage your own web site.
+
+
+
+

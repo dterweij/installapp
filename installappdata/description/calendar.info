@@ -1,0 +1,5 @@
+variable  __db admin_username_static_admin admin_password_static_admin  
+url http://www.calendar.eggdrop.gen.tr/
+version 2
+description Calendar.
+detail	This is a free calendar script. You can create new events for your web site or blog.

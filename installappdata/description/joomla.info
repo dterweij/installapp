@@ -1,0 +1,8 @@
+variable __db admin_email admin_username_static_admin admin_password
+url http://joomla.org
+version 1.0.13.1
+img  joomla.gif
+description Joomla. 
+adminarea administrator
+detail Joomla is an award-winning Content Management System (CMS) that will help you build websites and other powerful online applications. The basic Joomla package is designed to be easy to install, even for non-programmers. Most people have no trouble getting our software up and running, and there is plenty of support available for newbies. We have a growing, active community of more than 41,000 friendly users and developers on our forums eager to help.
+

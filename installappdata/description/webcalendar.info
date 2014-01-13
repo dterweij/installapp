@@ -1,0 +1,6 @@
+variable __db title admin_email admin_username_static_admin admin_message_static_password_sent_to_email
+url http://webcalendar.sourceforge.net
+img wordpress.gif
+version 1.0.5
+description  Webcalendar is a web based calendar software.
+detail WebCalendar, an Open Source web-based calendar/scheduling system written in PHP. WebCalendar has been under development since 2000 and continues to evolve. After years of development, testing, and user feedback from around the world, WebCalendar is a very stable and feature-rich product that compares very favorably with the best commercial calendars.

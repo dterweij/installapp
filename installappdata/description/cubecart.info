@@ -1,0 +1,6 @@
+variable   __db admin_username_static_admin admin_password_static_admin admin_email 
+url http://www.cubecart.com
+version 3.0.18.1
+description  Cube Cart is powerful and commonly used e-commerce solution!
+detail CubeCart is a free to use eCommerce software designed to allow individuals and businesses sell tangible and digital goods on line. What differentiates Cube Cart from the other shopping carts is the help desk integrated into the default installation, the improved search and security functionality, and the ability to set more than one e-shop using one database. If you would like to see how Cube Cart works, here you get Cube cart installed and activated in less than 15 min.
+

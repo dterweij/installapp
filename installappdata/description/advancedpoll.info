@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_poll
+url http://www.proxy2.de/scripts.php
+img advancedpoll.gif
+version 2.0.8
+description  AdvancedPoll.
+detail Advanced Poll is a polling system with powerful administration tool. It features: multiple polls, templates, unlimited options, multi-language support, IP-Logging, IP-Locking, cookie support, comment feature, vote expire feature, random poll support and more. Supports textfile and mySQL database.

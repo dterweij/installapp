@@ -1,0 +1,6 @@
+variable   __db admin_username_static_admin admin_password_static_password
+url http://www.boastology.com
+img boastmachine.gif
+version 3.1
+description  boastMachine.
+detail  boastMachine is an open source, state of the art publishing platform written from scratch, that makes your web publishing experience so fun and easy as never before! From the fully automated installation to advanced content management features to spam fighting, boastMachine provides you with all that you would ever need!<br># Lightweight, yet full-featured and easy to use<br># Powerful content management system<br># Dynamic search engine friendly pages<br># Various permission levels for posts<br># Supports multiple blogs, authors, user levels and profiles<br># Readymade language, theme and smiley packs<br># Built-in spam-figthing capabilities<br># Powerful backup/restore system<br># Written in PHP and backed by MySQL<br># FREE and Open Source (GPL)

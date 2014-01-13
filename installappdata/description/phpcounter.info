@@ -1,0 +1,8 @@
+variable admin_email
+url http://ekstreme.com/phpcounter/
+version 7.3
+description PHP web analytics and website statistics
+detail PHPCounter is a free hit counter/website statistics/analytics script. It is free, easy to install and tracks all information about your visitors.PHPCounter is a full-featured analytics package that gives you detailed visitor statistics: Unlimited page tracking.Traffic statistics for each hit: hit time, referring link and referring domain, user agent and browser,remote host or remote IP, language, and more.remote host or remote IP, language, and more.Search engine referrals, including search keyword and terms. Bot tracking.<br> Find out which web robots, crawlers, and spiders visit your site.Invisible hit counting, or visible text or image hit counting. Text and images can be custom-made to fit your site and can be of any format (jpg, gif, png, etc).  Start the counter at any number. Ignore page refreshes. Ignore any number of specified IP addresses, remote hosts, browsers, or user agents.<br> And if you're handy in PHP, you can modify PHPCounter to suit your needs. Automatic log file rotation based on time-spans you define. You don't have to reset the counts when you rotate the log.A plugin-based architecture that allowing for custom data analysis code to extend the capabilities of PHPCounter.
+
+
+

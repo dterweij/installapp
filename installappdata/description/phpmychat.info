@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_admin 
+url http://sourceforge.net/projects/phpmychat/
+img phpmychat.gif
+version 1.93
+description phpmychat is a multi-room chat system.  
+detail 	phpMyChat is an easy-to-install, easy-to-use multi-room chat based on PHP and a database, supporting MySQL, PostgreSQL, and ODBC. It supports some IRC-like commands, and has been translated to 37 different languages.

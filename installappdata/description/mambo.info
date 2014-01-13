@@ -1,0 +1,9 @@
+variable __db admin_email admin_username_static_admin admin_password
+url http://www.mamboserver.com
+img mambo.gif
+version 4.6.5
+adminarea administrator
+description  Mambo is a site Creation and Content Management System.
+detail  Mambo is a dynamic portal engine and content management system.The key feature is the ability to allow any authorized user to add and edit content directly on the Web. Multiple people can manage content within a Mambo Web site. They do not need to know any programming languages, such as HTML, to update their site because an 'online WYSIWYG editor' (What You See Is What You Get) is included for formatting the text and inserting images. There is no need to 'upload' your documents with hard to understand FTP (File Transfer Protocol) programs. Just Save and Publish your content and your Web page is online for everyone to see!
+
+

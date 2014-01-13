@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://tribalcms.com
+img tribalcms.gif
+version 4.2.6
+description  TribalCMS.
+detail TribalCMS (Tribal Content Management System) is a free software / open source content management system (CMS) for creating and managing websites through a simple web interface. TribalCMS is the scalable PHP/MySQL CMS supporting Multiple Content Types, WYSIWYG editing, AJAX scripting, Extranet, built-in Dashboard and more. Built to liberate webmasters and developers, TribalCMS encourages efficient collaboration for every user for both small-, medium- and enterprise-scale websites.

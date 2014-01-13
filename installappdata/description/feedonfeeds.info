@@ -1,0 +1,6 @@
+variable __db 
+url http://feedonfeeds.com
+img feedonfeeds.gif
+version 0.1.9
+description  Feed On Feeds is a server-side RSS and Atom aggregator. 
+detail Feed On Feeds is a PHP/MySQL based server-side RSS and Atom aggregator. 

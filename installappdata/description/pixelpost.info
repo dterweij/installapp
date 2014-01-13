@@ -1,0 +1,5 @@
+variable __db admin_username_static_admin admin_password_static_password
+url http://www.pixelpost.org
+version 1.6.0
+description Pixelpost is a small photoblog application.
+detail A small photoblog application that's a no-brainer to set up and use - this is truly for anyone wishing regularly to post their photos on the web like a blog.It is very heavily geared towards photobloggers and comes with a set of features that caters to photobloggers needs.There are a plethora of software for the literary minded out there, far fewer for the visual person who want to set up a photoblog. Pixelpost is wholly and fully geared towards photoblogging.

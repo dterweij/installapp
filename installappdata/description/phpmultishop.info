@@ -1,0 +1,7 @@
+variable   __db admin_username_static_admin admin_password_static_password admin_email 
+url http://www.php-multishop.com/
+img phpmultishop.gif
+version 0.8
+description  Php-Multishop.
+detail Php-MultiShop is a CMS & e-Commerce System, an OpenSource platform to realize a virtual mall that includes various shops and contents. The user will have a global vision of the portal, to read the most interesting content (news, forums, curiosities, suggestions, reviews, cultural or commercial events, fairs, recipes, tourist itineraries,...) and will have the possibility to visit the shop desired.<br>Every shop will have all the functions and the personalization of a traditional e-commerce web-site, as if it were independent from the virtual mall. It will have its own internet domain and could be administrated in full autonomy by its own administrator. At the same time, it can be distinct from the mall and other shops thanks to the personalized graphics, individual style, organization, contents and products, like every shop in a real market place. Besides, being part of a large place able to attract different typologies of visitors and consumers, it will be visible and more easily findable, increasing its audience and potential market.<br>Php-MultiShop is written in PHP, run on Apache webserver and MySQL database server, and is able to run on any PHP and MySQL environmen, including Linux, Solaris, BSD, Mac OS X, and Microsoft Windows environments. 
+

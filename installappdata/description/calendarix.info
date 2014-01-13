@@ -1,0 +1,6 @@
+variable __db admin_username_static_admin admin_password_static_admin
+url http://calendarix.com
+version 0.7.2
+description Calendarix.
+detail Calendarix is a powerful and easy to use web-based calendar that runs on PHP and MySQL. Calendar can be viewed in various ways - yearly, monthly, weekly, daily and by categories. Events can be grouped under categories and viewed filtered by categories. Approval of events can be configured. Separate administration module available to manage calendar, historical events, categories and user accounts. Mini-calendar also available. Advanced text editing can be provided with optional integration with FCKeditor. Now available in more than 22 languages.
+

@@ -1,0 +1,6 @@
+variable __db 
+url http://www.free-php.net/scripts.php
+img simplepoll.gif
+version 1.2
+description  SimplePoll.
+detail Simple Poll employs a simple to use admin interface and template customizations for your poll so that you can easily adapt to the look and feel of your web site. Setup as many polls as you like.

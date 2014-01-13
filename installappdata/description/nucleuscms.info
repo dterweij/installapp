@@ -1,0 +1,5 @@
+variable __db admin_email admin_username_static_admin admin_password_static_password
+url http://nucleuscms.org
+version 3.33
+description Nucleus CMS allows you to maintain one or more weblogs or online journals.
+detail Nucleus offers you the building blocks you need to create a web presence. Whether you want to create a personal blog, a family page, or an online business site, Nucleus CMS can help you achieve your goals.<br>Nucleus CMS is a powerful set of PHP scripts that allow you to maintain one or more weblogs or online journals. A short summary of the most important features is given below:<br> * Runs on your own server.<br>* One or more weblogs, even on the same page <br> * Plugin-interface to add extra functionality<br> * Comments, Archives, Categories <br> * Search, Multiple authors, Future items,Drafts. <br> * Extensive administration area, Media library and file upload <br>* Fully customizable skins and templates, Skin import/export.<br>* Banlist against commenting system abuse, RSS syndication.<br>* Easy installation, Easy backups, XML-RPC interface.<br>* XHTML-ready, Tools to import Blogger and GreyMatter blogs.

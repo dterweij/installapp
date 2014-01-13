@@ -1,0 +1,6 @@
+variable __db
+url http://sourceforge.net/projects/phplinks
+img phplinks.gif
+version 2.1.3.1
+description  phplinks.
+detail PHPLinks is an open source project written in PHP for use with MySQL, allowing one to run an extremely efficient Link Farm with full search capabilities. A "simulated" search engine in many ways.

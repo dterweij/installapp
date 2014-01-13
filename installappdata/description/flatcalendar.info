@@ -1,0 +1,6 @@
+variable admin_username_static_admin 
+url http://circulargenius.com/flatcalendar/
+img flatcalendar.gif
+version 1.1
+description Flat Calendar stores all its events in files on the server without any use of a database. 
+detail Flat Calendar was designed for those of us who need calendar and event book functionality but do not have access to a database. Unlike most of the calendar and event book scripts available, Flat Calendar stores all its events in files on the server without any use of a database. 

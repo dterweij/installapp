@@ -1,0 +1,5 @@
+variable __db admin_email admin_username admin_password
+url http://www.mybboard.net
+version 1.2.4
+description MyBB is a powerful,efficient free forum package forum.
+detail MyBB (also known as MyBBoard or MyBulletinBoard) is a powerful, efficient and free forum package, developed using PHP and MySQL. MyBB has been designed with both the end user in mind (you and your subscribers) and the people who staff your message board. Full control over your discussion system is presented right at your fingertips, from the ability to have multiple themes to the ultimate customisation of your forums using the template system. MyBB presents a variety of features that make this bulletin board unique.

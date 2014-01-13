@@ -1,0 +1,7 @@
+variable   __db admin_username admin_password admin_email 
+url	 http://www.simplemachines.org
+version  1.1.7
+description   SMF is a online community software.
+detail   Simple Machines Forum - SMF in short - is a free, professional grade software package that allows you to set up your own online community within minutes. Its powerful custom made template engine puts you in full control of the lay-out of your message board and with our unique SSI - or Server Side Includes - function you can let your forum and your website interact with each other. SMF is written in the popular language PHP and uses a MySQL database. It is designed to provide you with all the features you need from a bulletin board while having an absolute minimal impact on the resources of the server.
+
+

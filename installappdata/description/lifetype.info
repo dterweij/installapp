@@ -1,0 +1,8 @@
+variable   __db admin_username_static_admin admin_password_static_password admin_email
+url http://www.lifetype.net/
+requirement mysql 4.1 
+img lifetype.gif
+version 1.2.4
+description  LifeType.
+detail LifeType supports multiple blogs and users, media management, generation of standard content, clean URLs and support for subdomains. LifeType is released under the GPL license, and requires PHP and MySQL to work.<br> It works fine in mysql 4.1 version. 
+
